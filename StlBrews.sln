@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StlBrews.Services", "StlBrews.Services\StlBrews.Services.csproj", "{A733573E-EC70-483C-89A9-463BD3407511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StlBrews.Models", "StlBrews.Models\StlBrews.Models.csproj", "{c0ce210a-d8d5-439a-938a-ad05e4462be5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A733573E-EC70-483C-89A9-463BD3407511}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{A733573E-EC70-483C-89A9-463BD3407511}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{A733573E-EC70-483C-89A9-463BD3407511}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{A733573E-EC70-483C-89A9-463BD3407511}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+EndGlobal
